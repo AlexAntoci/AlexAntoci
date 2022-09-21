@@ -1,0 +1,4 @@
+- Hello, my name is Alexander. I am a graduate from the State University of Moldova :) .
+- I am currently developing some main skills in web development and my main goal is to succesfully kickstart my frontend career.
+- Technologies I'm currently learning: Javascript and React framework.
+- Projects in mind: build a social media app.

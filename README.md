@@ -1,4 +1,4 @@
 - Hello, my name is Alexander. I am an IT enthusiast.
 - I am currently working as an IT support technician, planning to work in software development.
 - IT Languages I know: HTML/CSS/JS/Basics of React and Wordpress, fundamental understanding of JAVA and C/C++/Python.
-- I you have any questions or recommandations regarding my projects do reach out at alexandrosantoci@gmail.com
+- If you have any questions or recommandations regarding my projects do reach out at alexandrosantoci@gmail.com

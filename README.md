@@ -1,4 +1,4 @@
-- Hello, my name is Alexander. I am a graduate from the State University of Moldova :) .
-- I am currently developing some main skills in web development and my main goal is to succesfully kickstart my frontend career.
-- Technologies I'm currently learning: Javascript and React framework.
-- Projects in mind: build a social media app.
+- Hello, my name is Alexander. I am an IT enthusiast.
+- I am currently working as an IT support technician, planning to work in software development.
+- IT Languages I know: HTML/CSS/JS/Basics of React and Wordpress, fundamental understanding of JAVA and C/C++/Python.
+- I you have any questions or recommandations regarding my projects do reach out at alexandrosantoci@gmail.com
